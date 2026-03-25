@@ -58,8 +58,7 @@
 
 <div align="center">
 
-![](https://robercop2000-git-master-roberto-plazas-projects.vercel.app/api?username=Robercop2000&theme=algolia&show_icons=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile&show_private=true)
-
+![](https://robercop2000.vercel.app/api?username=Robercop2000&theme=algolia&show_icons=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile) <br>
 </div>
 
 ### 💳 Github Profile Summary Card
