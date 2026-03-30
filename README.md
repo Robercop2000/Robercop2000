@@ -21,9 +21,9 @@
 
 ---
 
-- 👨‍💻 I’m a **C++ Software Engineer** with experience in **Qt/QML** development, desktop applications, game engines, and AI systems.  
-- 💬 Ask me about **C++ development, Qt/QML, AI & Machine Learning, and Game Development (Unity/Unreal)**.  
-- 🌱 I’m currently diving deeper into **Machine Learning** and **AI**.  
+- 👨‍💻 Learning C++ and Qt/QML
+- 🤖 Exploring Machine Learning
+- 🚀 Building projects and improving every day
 
 ---
 
