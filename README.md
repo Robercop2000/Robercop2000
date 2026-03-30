@@ -21,7 +21,7 @@
 
 ---
 
-- 👨‍💻 Learning C++ and Qt/QML
+- 👨‍💻 Working with C++ and Qt/QML
 - 🤖 Exploring Machine Learning
 - 🚀 Building projects and improving every day
 
@@ -33,7 +33,8 @@
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
-![QML](https://img.shields.io/badge/QML-%23FF0033.svg?style=for-the-badge&logo=qt&logoColor=white)  
+![QML](https://img.shields.io/badge/QML-%23FF0033.svg?style=for-the-badge&logo=qt&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### 🖥 Frameworks & GUI
 ![Qt](https://img.shields.io/badge/Qt-%23049FD9.svg?style=for-the-badge&logo=qt&logoColor=white)  
