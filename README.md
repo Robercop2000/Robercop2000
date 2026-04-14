@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=C%2B%2B%20Software%20Engineer;Qt%20%26%20QML%20Developer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&center=true&width=500&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Backend%20Engineer;Building%20scalable%20systems;Problem%20Solver;Always%20learning&center=true&width=500&height=45">
   </a>
 </p>
 
@@ -81,14 +81,6 @@
 ### 📈 Activity Graph
 
 [![Roberto's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Robercop2000&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 📊 Most Used Languages
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Robercop2000&show_icons=true&locale=en&layout=compact&theme=radical)
-
-</div>
 
 ---
 
